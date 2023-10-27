@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1698242838 source:d:\the subjects\embeded system course\01 c language\lectures of pointers\projects\mystring\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"MyString.h"
+
+1698242809 d:\the subjects\embeded system course\01 c language\lectures of pointers\projects\mystring\mystring.h
+
